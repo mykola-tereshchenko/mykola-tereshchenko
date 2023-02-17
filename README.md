@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @mykola-tereshchenko
 - 🌱 I’m currently learning:
-  - 🌐 HTML, CSS & JS
-  - 🐍 Python (Django, Flask)
+  - 👀 HTML, CSS & JS
+  - 🌐 ASP.NET Core
+  - 🐍 Python
   - 🐧 Linux
   - 🗄️ Database (SQL)
   - 🐋 Docker
