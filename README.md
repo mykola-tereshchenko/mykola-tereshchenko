@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mykola-tereshchenko
 - 📚 I’m currently learning:
   - 🌐 HTML, CSS & JS
-  - 🪟 .NET Core
+  - 🪟 .NET
   - 🐍 Python
   - 🐧 Linux
   - 🗃️ Database (SQL)
